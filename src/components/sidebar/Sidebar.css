@@ -1,0 +1,82 @@
+.box {
+  margin-top: 50px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.items {
+  position: relative;
+  height: 130px;
+}
+
+.img-wrapper {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: -80px;
+  display: flex;
+  justify-content: center;
+}
+
+.items img {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+}
+
+.icons a {
+  text-decoration: none;
+  font-size: 23px;
+  margin: 10px;
+  color: white;
+}
+
+.icons a:hover {
+  transition: 0.3s;
+  color: #527093;
+}
+.box-contact {
+  background-color: #393939;
+  border-radius: 10px;
+}
+.contact {
+  font-size: 14px !important;
+  border-radius: 20px;
+  margin: 2px;
+}
+.contact i {
+  margin: 5px;
+  display: flex;
+  font-size: 20px !important;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #11111186;
+  border-radius: 5px;
+  width: 35px;
+  height: 35px;
+  padding-right: 5px;
+}
+.contact p {
+  font-size: 11px;
+}
+.contact a {
+  text-decoration: none;
+  color: #fffdfd;
+}
+.contact span:hover {
+  color: #527093 !important;
+}
+.contact a:hover {
+  color: #527093;
+}
+@media (max-width: 770px) {
+  .img-wrapper {
+    top: -80px; 
+  }
+
+  .items img {
+    max-height: 200px; 
+  }
+}

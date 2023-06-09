@@ -1,0 +1,20 @@
+.content-header {
+  background-color: #393939;
+  border-radius: 10px;
+  transform: scale(0.9);
+  transform-origin: right top;
+  overflow-y: scroll;
+  height: 620px;
+}
+.content-header::-webkit-scrollbar {
+  border: none;
+}
+.body {
+  transform: scale(0.9);
+  transition: all 0.5s;
+}
+@media (max-width: 767px) {
+  .content-header {
+    transform: scale(1);
+  }
+}

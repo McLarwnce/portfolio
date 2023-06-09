@@ -1,0 +1,18 @@
+.works img {
+  border-radius: 5px !important;
+}
+.card .card-title {
+  font-size: 15px;
+  color: #9fccff;
+  padding-bottom: 5px;
+}
+.card .card-text {
+  display: flex;
+  align-items: center;
+  height: 4em;
+  text-overflow: ellipsis;
+}
+.works button:hover {
+  background-color: #f8ff98 !important;
+  border: 1px solid #f8ff98 !important;
+}

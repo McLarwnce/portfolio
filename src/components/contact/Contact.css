@@ -1,0 +1,68 @@
+.Contact-box {
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+a:hover {
+  transition: all 0.5s;
+  color: #8cc0fb !important;
+}
+.form-container input[type="email"],
+.form-container input[type="text"] {
+  padding: 0.75rem 1rem;
+  display: block;
+  width: 100%;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
+  border: none;
+  background-color: transparent;
+  transition: all 0.5s;
+  color: #fff;
+  border-bottom: 1px solid #6f6f6f;
+  border-radius: 0; /* Add this line */
+}
+
+.form-container input[type="email"]:focus,
+.form-container input[type="text"]:focus {
+  background-color: transparent;
+  border-bottom: 1px solid #ff0000;
+  outline: none;
+}
+.form-container textarea {
+  padding: 0.75rem 1rem;
+  display: block;
+  width: 100%;
+  box-shadow: -2px 1px 1px -2px rgba(0, 0, 0, 0.05);
+  border: none;
+  background-color: transparent;
+  transition: all 0.5s;
+  color: #fff !important;
+  border-bottom: 1px solid #6f6f6f;
+  border-radius: 0;
+}
+
+.form-container textarea:focus {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
+
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #ff0000;
+  outline: none;
+}
+.box-call {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+@media (max-width: 1141px) {
+  .box-call a {
+    font-size: medium;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: start;
+    justify-content: left;
+  }
+}

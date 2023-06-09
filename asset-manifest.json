@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6f37d726.css",
+    "main.js": "/portfolio/static/js/main.325c5875.js",
+    "static/media/6.png": "/portfolio/static/media/6.4010be60ebdbeab32768.png",
+    "static/media/1.png": "/portfolio/static/media/1.c7973ad966acf0a78b65.png",
+    "static/media/3.png": "/portfolio/static/media/3.d9acab5923ad8d5862ed.png",
+    "static/media/Untitled.png": "/portfolio/static/media/Untitled.7792aafc1d353a45cdee.png",
+    "static/media/fa-solid-900.ttf": "/portfolio/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/5.png": "/portfolio/static/media/5.1bfcee914afd2c72fe79.png",
+    "static/media/fa-brands-400.ttf": "/portfolio/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/hamzaalarja.pdf.pdf": "/portfolio/static/media/hamzaalarja.pdf.30d7d6fe280d96d11f6d.pdf",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/bg.png": "/portfolio/static/media/bg.37f3041abc300d0aac08.png",
+    "static/media/2.png": "/portfolio/static/media/2.7ca76d06dfbac00002c6.png",
+    "static/media/fa-regular-400.ttf": "/portfolio/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/4.png": "/portfolio/static/media/4.7c1c574f7b9e53b8408c.png",
+    "static/media/fa-v4compatibility.ttf": "/portfolio/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.6f37d726.css.map": "/portfolio/static/css/main.6f37d726.css.map",
+    "main.325c5875.js.map": "/portfolio/static/js/main.325c5875.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f37d726.css",
+    "static/js/main.325c5875.js"
+  ]
+}

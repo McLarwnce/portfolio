@@ -73,10 +73,19 @@
 }
 @media (max-width: 770px) {
   .img-wrapper {
-    top: -80px; 
+    top: -80px;
   }
 
   .items img {
-    max-height: 200px; 
+    max-height: 200px;
+  }
+}
+@media (min-width: 770px) {
+  .img-wrapper {
+    top: -80px;
+  }
+
+  .items img {
+    max-height: 200px;
   }
 }
